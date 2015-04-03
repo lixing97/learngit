@@ -4,4 +4,4 @@ git has a mutable index called stage.
 git tracks changes of files.
 git hub test
 creating a new branch is quick and simple.
-dev 1 
+dev 1 2 
